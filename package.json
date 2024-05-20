@@ -1,0 +1,26 @@
+{
+  "name": "my2ndlamdra_20240424",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cmcheung001/My2ndLamdra_20240424.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cmcheung001/My2ndLamdra_20240424/issues"
+  },
+  "homepage": "https://github.com/cmcheung001/My2ndLamdra_20240424#readme",
+  "description": "",
+  "devDependencies": {
+    "serverless-offline": "^13.3.4"
+  },
+  "dependencies": {
+    "@aws-sdk/client-secrets-manager": "^3.578.0"
+  }
+}
